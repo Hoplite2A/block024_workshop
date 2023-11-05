@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +39,28 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+body {
+  background-color: rgb(121, 242, 7);
+  text-align: center;
+  margin: 0px;
+}
+.thaBiggerDiv{
+  width: 100%;
+}
+.thaBigDiv {
+  border-color: black;
+  color: white;
+  background-color: grey;
+  padding-top: 10px;
+  width:100%;
+}
+.bigPuppa {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  margin-top: 0px;
+}
+.thaDeets {
+  margin: 0px;
 }
